@@ -1,2 +1,1 @@
-# basic-login-page-yurttasutkan
-basic-login-page-yurttasutkan created by GitHub Classroom
+Basic Login Page Lab 02
